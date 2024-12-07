@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-    name="ADVERTISING"
+    name="ADVERTISING",
     version="0.0.1",
     author="Raj Arya",
     author_email="rajarya28042003@gmail.com",
