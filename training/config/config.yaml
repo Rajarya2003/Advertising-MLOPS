@@ -2,7 +2,7 @@ artifacts_root: artifacts
 
 data ingestion:
   root_dir: artifacts/data_ingestion
-  source: data/advertising_data
+  source: data\advertising_data.csv
   data_dir: artifacts/data_ingestion
   STATUS_FILE: artifacts/data_ingestion/status.txt
 
